@@ -23,7 +23,7 @@ claude.ai##.overflow-auto.sm\:p-8.p-4.bg-bg-500.font-ui.rounded-3xl.sm\:max-w-md
 ge.globo.com##.cookie-banner-lgpd-animated.cookie-banner-lgpd-visible
 
 ! 4 de abr. de 2026 https://www.climaaovivo.com.br
-www.climaaovivo.com.br##.overlayclass
+climaaovivo.com.br##.overlayclass
 
 ! 10 de abr. de 2026 https://sbtnews.sbt.com.br
 sbt.com.br##div[class^="AnchorAd_"], .consent-modal-base
