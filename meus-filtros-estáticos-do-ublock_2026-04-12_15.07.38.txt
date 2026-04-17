@@ -8,6 +8,8 @@ redecanais.*,redecanaistv.*,googleapis.com.do,googleapis.com.de##+js(set, docume
 ! Remover botões e overlay
 /([0-9]\.)?(embedcanaisonline|embeddecanais|embedtvonline|embedtv|meuplayeronlinehd|multicanaishd|embedcanais|sporturbo|nossoplayeronlinehd)[a-z0-9]*\.[a-z]{2,}$/###embedBtn, #embed-button, #refresh, .refresh, #overlay-banner, #vipModal, .watermark, #megafute, #overlayLink, [class^="iptv-"], [id^="iptv-"]
 
+||embedtv.*$script
+
 meuplayeronlinehd.com##+js(rmnt, script, /adblock|bait/i)
 
 multicanaisk.com##+js(nowoif)
