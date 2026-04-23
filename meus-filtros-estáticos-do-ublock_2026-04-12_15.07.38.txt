@@ -10,7 +10,7 @@ redecanais.*,redecanaistv.*,googleapis.com.do,googleapis.com.de##+js(set, docume
 
 ! Embedtv
 ! ||embedtv.*$script
-||embedtv.live/test.js$script
+||embedtv.*/test.js$script
 
 meuplayeronlinehd.com##+js(rmnt, script, /adblock|bait/i)
 
