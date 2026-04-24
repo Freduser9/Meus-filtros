@@ -30,3 +30,5 @@ sbt.com.br##div[class^="AnchorAd_"], .consent-modal-base
 
 ! 10 de abr. de 2026 https://www.chessclub.com
 chessclub.com##.css-t5lo24.MuiStack-root, .css-t5lo24.MuiStack-root
+
+||paywall.folha.uol.com.br/wall.js
