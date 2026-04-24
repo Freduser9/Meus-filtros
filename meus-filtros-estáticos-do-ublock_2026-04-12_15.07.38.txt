@@ -32,3 +32,7 @@ sbt.com.br##div[class^="AnchorAd_"], .consent-modal-base
 chessclub.com##.css-t5lo24.MuiStack-root, .css-t5lo24.MuiStack-root
 
 ||paywall.folha.uol.com.br/wall.js
+
+! 24 de abr. de 2026 https://www1.folha.uol.com.br
+folha.uol.com.br###top-signup-close
+folha.uol.com.br##.u-no-print.c-top-signup-inner
