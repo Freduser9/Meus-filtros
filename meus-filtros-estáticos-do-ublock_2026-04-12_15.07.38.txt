@@ -28,11 +28,3 @@ sbt.com.br##.consent-modal-base
 
 ! 10 de abr. de 2026 https://www.chessclub.com
 chessclub.com##.css-t5lo24.MuiStack-root
-
-||paywall.*$script
-
-||buy.tinypass.com
-
-! 24 de abr. de 2026 https://www1.folha.uol.com.br
-folha.uol.com.br###top-signup-close
-folha.uol.com.br##.u-no-print.c-top-signup-inner
