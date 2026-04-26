@@ -23,12 +23,15 @@ ge.globo.com##.cookie-banner-lgpd-animated.cookie-banner-lgpd-visible
 climaaovivo.com.br##.overlayclass
 
 ! 10 de abr. de 2026 https://sbtnews.sbt.com.br
-sbt.com.br##div[class^="AnchorAd_"], .consent-modal-base
+sbt.com.br##div[class^="AnchorAd_"] 
+sbt.com.br##.consent-modal-base
 
 ! 10 de abr. de 2026 https://www.chessclub.com
 chessclub.com##.css-t5lo24.MuiStack-root
 
-||paywall.folha.uol.com.br/wall.js
+||paywall.*$script
+
+||buy.tinypass.com
 
 ! 24 de abr. de 2026 https://www1.folha.uol.com.br
 folha.uol.com.br###top-signup-close
