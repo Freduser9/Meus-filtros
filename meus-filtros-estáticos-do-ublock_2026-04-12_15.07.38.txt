@@ -1,5 +1,8 @@
-! Filtros para sites de transmissão do Brasil
-
+! Title: Meus Filtros Estáticos - Freduser9
+! Homepage: https://github.com/Freduser9/Meus-filtros
+! Description: Filtros para sites de transmissão do Brasil
+! Last modified: 2026-05-01
+! Expires: 3 days
 
 ! Bloqueio de scripts anti-devtools
 embedcanais.*,sporturbo.com,esportesembed.*,embedtvonline.*,nossoplayeronlinehd.*,reidoscanais.*,rdcplayer.*,embedtv.*,meuplayeronlinehd.com,/googleapis.com.*/##+js(set, DisableDevtool, undefined)
