@@ -1,3 +1,6 @@
+! Filtros para sites de transmissão do Brasil
+
+
 ! Bloqueio de scripts anti-devtools
 embedcanais.*,sporturbo.com,esportesembed.*,embedtvonline.*,nossoplayeronlinehd.*,reidoscanais.*,rdcplayer.*,embedtv.*,meuplayeronlinehd.com,/googleapis.com.*/##+js(set, DisableDevtool, undefined)
 
@@ -6,7 +9,7 @@ redecanais.*,redecanaistv.*,googleapis.com.do,googleapis.com.de###adult-logo, [h
 redecanais.*,redecanaistv.*,googleapis.com.do,googleapis.com.de##+js(set, document.fullscreenElement, true)
 
 ! Remover botões e overlay
-/([0-9]\.)?(embedcanaisonline|embeddecanais|embedtvonline|embedtv|meuplayeronlinehd|multicanaishd|embedcanais|sporturbo|nossoplayeronlinehd)[a-z0-9]*\.[a-z]{2,}$/###embedBtn, #embed-button, #refresh, .refresh, #overlay-banner, #vipModal, .watermark, #megafute, #overlayLink, [class^="iptv-"], [id^="iptv-"], #overlay, #Overlay
+/([0-9]\.)?(embedcanaisonline|embeddecanais|embedtvonline|embedtv|meuplayeronlinehd|multicanaishd|embedcanais|sporturbo|nossoplayeronlinehd)[a-z0-9]*\.[a-z]{2,}$/##[class^="iptv-"], [id^="iptv-"], #embed-button, #embedBtn, #megafute, #overlay, #Overlay, #overlay-banner, #overlayLink, #refresh, #vipModal, .refresh, .watermark, #popup-overlay, #reloadFab
 
 ! Embedtv
 ! ||embedtv.*$script
