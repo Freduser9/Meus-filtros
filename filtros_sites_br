@@ -25,9 +25,6 @@ multicanaisk.com##+js(nowoif)
 ! 29 de mar. de 2026 https://ge.globo.com
 ge.globo.com##.cookie-banner-lgpd-animated.cookie-banner-lgpd-visible
 
-! 4 de abr. de 2026 https://www.climaaovivo.com.br
-climaaovivo.com.br##.overlayclass
-
 ! 10 de abr. de 2026 https://sbtnews.sbt.com.br
 sbt.com.br##div[class^="AnchorAd_"] 
 sbt.com.br##.consent-modal-base
