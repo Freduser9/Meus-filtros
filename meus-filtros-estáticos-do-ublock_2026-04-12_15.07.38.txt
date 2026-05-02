@@ -1,4 +1,4 @@
-! Title: Filtros sites Brasileiros
+! Title: Meus filtros
 ! Homepage: https://github.com/Freduser9/Meus-filtros
 ! Description: Filtros para sites de transmissão do Brasil
 ! Last modified: 2026-05-01
