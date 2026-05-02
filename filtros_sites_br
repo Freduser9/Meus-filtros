@@ -2,7 +2,7 @@
 ! Expires: 5 days (update frequency)
 ! Homepage: https://github.com/Freduser9/Meus-filtros
 ! Description: Filtros para sites brasileiros
-! Last modified: %timestamp%
+! Last modified: 2026-05-01
 
 ! Bloqueio de scripts anti-devtools
 embedcanais.*,sporturbo.com,esportesembed.*,embedtvonline.*,nossoplayeronlinehd.*,reidoscanais.*,rdcplayer.*,embedtv.*,meuplayeronlinehd.com,/googleapis.com.*/##+js(set, DisableDevtool, undefined)
@@ -22,10 +22,10 @@ meuplayeronlinehd.com##+js(rmnt, script, /adblock|bait/i)
 
 multicanaisk.com##+js(nowoif)
 
-! 29 de mar. de 2026 https://ge.globo.com
+climaaovivo.com.br##.overlayclass
+
 ge.globo.com##.cookie-banner-lgpd-animated.cookie-banner-lgpd-visible
 
-! 10 de abr. de 2026 https://sbtnews.sbt.com.br
 sbt.com.br##div[class^="AnchorAd_"] 
 sbt.com.br##.consent-modal-base
 
