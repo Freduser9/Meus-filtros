@@ -1,6 +1,6 @@
 ! Title: Meus filtros
 ! Homepage: https://github.com/Freduser9/Meus-filtros
-! Description: Filtros para sites de transmissão do Brasil
+! Description: Filtros para sites do Brasil
 ! Last modified: 2026-05-01
 ! Expires: 3 days
 
