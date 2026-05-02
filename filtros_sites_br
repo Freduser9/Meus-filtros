@@ -2,7 +2,7 @@
 ! Expires: 5 days (update frequency)
 ! Homepage: https://github.com/Freduser9/Meus-filtros
 ! Description: Filtros para sites brasileiros
-! Last modified: 2026-05-01
+! Last modified: %timestamp%
 
 ! Bloqueio de scripts anti-devtools
 embedcanais.*,sporturbo.com,esportesembed.*,embedtvonline.*,nossoplayeronlinehd.*,reidoscanais.*,rdcplayer.*,embedtv.*,meuplayeronlinehd.com,/googleapis.com.*/##+js(set, DisableDevtool, undefined)
