@@ -1,7 +1,7 @@
-! Title: Meus filtros BR
+! Title: Meus filtros
 ! Expires: 3 days
 ! Homepage: https://github.com/Freduser9/Meus-filtros
-! Description: Filtros para sites do Brasil
+! Description: Filtros para sites brasileiros
 ! Last modified: 2026-05-01
 
 ! Bloqueio de scripts anti-devtools
@@ -32,5 +32,3 @@ climaaovivo.com.br##.overlayclass
 sbt.com.br##div[class^="AnchorAd_"] 
 sbt.com.br##.consent-modal-base
 
-! 10 de abr. de 2026 https://www.chessclub.com
-chessclub.com##.css-t5lo24.MuiStack-root
