@@ -23,7 +23,7 @@ meuplayeronlinehd.com##.embed-modal
 ||meuplayeronlinehd.com$image,stylesheet,1p
 ||entitlements.jwplayer.com^$xhr,domain=meuplayeronlinehd.com
 ||disney.images.edge.bamgrid.com^$image,domain=meuplayeronlinehd.com
-||cdn.jsdelivr.net$domain=meuplayeronlinehd.com
+||cdn.jsdelivr.net^$domain=meuplayeronlinehd.com
 @@||cdn.jsdelivr.net/npm/clappr@latest/dist/clappr.min.js$script,domain=meuplayeronlinehd.com
 @@||cdn.jsdelivr.net/npm/shaka-player@4.14.10/dist/shaka-player.ui.min.js$script,domain=meuplayeronlinehd.com
 @@||cdn.jsdelivr.net/npm/dash-shaka-playback@latest/dist/dash-shaka-playback.external.min.js$script,domain=meuplayeronlinehd.com
@@ -33,7 +33,7 @@ meuplayeronlinehd.com##.embed-modal
 @@||cdn.jsdelivr.net/npm/clappr@0.3.13/dist/clappr.min.js$script,domain=meuplayeronlinehd.com
 @@||cdn.jsdelivr.net/npm/p2p-media-loader-hlsjs@latest/build/p2p-media-loader-hlsjs.min.js$script,domain=meuplayeronlinehd.com
 @@||cdn.jsdelivr.net/npm/p2p-media-loader-core@latest/build/p2p-media-loader-core.min.js$script,domain=meuplayeronlinehd.com
-||ssl.p.jwpcdn.com$domain=meuplayeronlinehd.com
+||ssl.p.jwpcdn.com^$domain=meuplayeronlinehd.com
 @@||ssl.p.jwpcdn.com/player/v/*/jwplayer.js$script,domain=meuplayeronlinehd.com
 @@||ssl.p.jwpcdn.com/player/v/8.30.0/provider.shaka.js$script,domain=meuplayeronlinehd.com
 @@||ssl.p.jwpcdn.com/player/v/8.48.1/provider.hlsjs.js$script,domain=meuplayeronlinehd.com
