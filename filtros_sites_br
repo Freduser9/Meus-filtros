@@ -30,7 +30,6 @@ meuplayeronlinehd.com##.embed-modal
 @@||cdn.jsdelivr.net/npm/clappr-pip@*/dist/clappr-pip.min.js$script,domain=meuplayeronlinehd.com
 @@||cdn.jsdelivr.net/gh/clappr/clappr-level-selector-plugin@*/dist/level-selector.min.js$script,domain=meuplayeronlinehd.com
 @@||cdn.jsdelivr.net/npm/clappr-chromecast-plugin@*/dist/clappr-chromecast-plugin.min.js$script,domain=meuplayeronlinehd.com|embedtv.*
-@@||cdn.jsdelivr.net/npm/clappr@*/dist/clappr.min.js$script,domain=meuplayeronlinehd.com
 @@||cdn.jsdelivr.net/npm/p2p-media-loader-hlsjs@*/build/p2p-media-loader-hlsjs.min.js$script,domain=meuplayeronlinehd.com|embedtv.*
 @@||cdn.jsdelivr.net/npm/p2p-media-loader-core@*/build/p2p-media-loader-core.min.js$script,domain=meuplayeronlinehd.com|embedtv.*
 @@||cdn.jsdelivr.net/npm/clappr@latest$script,domain=embedtv.*
