@@ -18,7 +18,6 @@ redecanais.*,redecanaistv.*,googleapis.com.do,googleapis.com.de##+js(set, docume
 ! ||embedtv.*$script
 ||embedtv.*/test.js$script
 
-meuplayeronlinehd.com##+js(rmnt, script, /adblock|bait/i)
 meuplayeronlinehd.com##.embed-modal
 ||meuplayeronlinehd.com$image,stylesheet,1p
 ||entitlements.jwplayer.com^$xhr,domain=meuplayeronlinehd.com
